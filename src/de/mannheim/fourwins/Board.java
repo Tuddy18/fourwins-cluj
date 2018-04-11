@@ -3,6 +3,9 @@ package de.mannheim.fourwins;
 import java.util.ArrayList;
 import java.util.Iterator;
 
+/** Giraffe
+ *
+ */
 class Board
 implements ObservableBoard
 {
