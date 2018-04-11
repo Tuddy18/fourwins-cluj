@@ -1,5 +1,8 @@
 package de.mannheim.fourwins;
 
+/**
+ * Hello
+ */
 class AdapterPlayer
 implements Player
 {
