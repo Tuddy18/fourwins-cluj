@@ -1,6 +1,7 @@
 package de.mannheim.fourwins;
 
 class Position { // datatype
+	//Giraffeeeeee
 	// Position beinhaltet, wer am Zug ist bzw. wer gewonnen hat.
 	  static final byte empty = 0; 
 	  static final byte white = 1;
